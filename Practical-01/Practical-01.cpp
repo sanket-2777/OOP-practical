@@ -23,7 +23,7 @@ string title1, title2, title3;
    cout<<"Enter BOOk 2 Title:";
    getline(cin, title2);
     //book 3
-   cout<<"Enter Book ID:";
+   cout<<"Enter Book 3 ID:";
    cin>>id3;
 
    cin.ignore();
